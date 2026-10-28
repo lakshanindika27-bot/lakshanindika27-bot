@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Indika Lakshan 👋 | AI Engineer
 
-<!--
-**lakshanindika27-bot/lakshanindika27-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | AI Agents & Chatbots | LLM, RAG, MLOps | Python**
+> Helping Businesses Automate with AI
 
-Here are some ideas to get you started:
+### 🚀 What I Build
+- 🤖 AI Agents & Chatbots - Customer support, 24/7 sales
+- 🧠 RAG Systems - Chat with your docs, 100% local & private
+- ⚙️ MLOps & Deployment - Prototype to production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `LLM` `RAG` `Ollama` `ChromaDB` `LangChain` `Docker` `FastAPI`
+
+### 🔥 Featured - Local RAG Pipeline
+**[ai-lab](https://github.com/lakshanindika27-bot/ai-lab)** - Complete measured RAG
+- Runs 100% locally - No API costs, privacy first
+- Ollama llama3.2:3b + nomic-embed-text + ChromaDB
+- Includes evals, cost tracking, Docker
+- Run: `docker-compose up`
+
+### 📫 Let's Connect
+- Available for freelance AI projects
+- Building AI solutions that actually ship
+
+⭐ Check my pinned repos below!
