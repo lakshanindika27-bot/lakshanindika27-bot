@@ -23,3 +23,9 @@
 - Building AI solutions that actually ship
 
 ⭐ Check my pinned repos below!
+### 🔧 Featured - MLOps Lab
+[mlops-lab](https://github.com/lakshanindika27-bot/mlops-lab) - End-to-end MLOps pipeline
+
+- Train → MLflow registry → FastAPI → Docker → Kubernetes
+- CI with 17 pytest tests, Terraform (Docker + Kubernetes providers)
+- Prometheus + Grafana monitoring, Evidently drift detection
